@@ -17,6 +17,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Frogs](#frogs)
 - [Goats](#goats)
 - [Horses](#horses)
+- [Koalas](#Koalas)
 - [Llamas](#llamas)
 - [Macaws](#macaws)
 - [Moose](#moose)
@@ -90,6 +91,12 @@ Us as soon as they let us out.
 ![Just rollin' with it](https://data.whicdn.com/images/239453188/original.gif)
 
 A foal taking its first pilates class.
+
+## Koalas
+
+![Pretty Hungry](https://www.motherjones.com/wp-content/uploads/2019/08/koala-8-20-19.jpg?w=990)
+
+This Koala is _Hungry_
 
 ## Llamas
 
