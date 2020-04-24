@@ -14,6 +14,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Cows](#cows)
 - [Dogs](#dogs)
 - [Elephants](#elephants)
+- [Flamingos](#flamingos)
 - [Frogs](#frogs)
 - [Goats](#goats)
 - [Horses](#horses)
@@ -67,6 +68,12 @@ Who wants this burrito?
 ![Those shoes!](https://media.giphy.com/media/SWKyABQ08mbXW/giphy.gif)
 
 Those shoes... enough said!
+
+## Flamingos 
+
+![stop smothering me, mom!](https://media.giphy.com/media/3ohrymTRyLnoaIED2E/giphy.gif)
+
+"Stop smothering me, mom!"
 
 ## Frogs
 
