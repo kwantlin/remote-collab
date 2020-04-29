@@ -11,6 +11,7 @@ Follow [this tutorial](../Tutorials/Animals.md) to add your favorite (adorable) 
 - [Axolotls](#axolotls)
 - [Camels](#camels)
 - [Cats](#cats)
+- [Chinchillas](#chinchillas)
 - [Cows](#cows)
 - [Dogs](#dogs)
 - [Elephants](#elephants)
@@ -50,6 +51,12 @@ bUt i dOn'T WaNNA geT bRaCeS mOm ! ! !
 ![Cat musicians](https://media.giphy.com/media/t7MWRoExDRF72/giphy.gif)
 
 Girl, put your records on.
+
+## Chinchillas
+
+![Chubby](https://www.google.com/url?sa=i&url=https%3A%2F%2Falldiamondpainting.com%2Fproducts%2Ffluffy-chinchilla-diamond-painting&psig=AOvVaw2hMo2Dn1va4n9PwBTIGhXg&ust=1588260155876000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjP26b4jekCFQAAAAAdAAAAABAO)
+
+_Such a fluffy buddy_
 
 ## Cows
 
